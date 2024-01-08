@@ -10,3 +10,8 @@ updates:
     schedule:
       interval: "weekly"
     vendor: true
+
+    groups:
+      rubocop-dependencies:
+        patterns:
+          - "rubocop*"
