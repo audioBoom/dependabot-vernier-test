@@ -2,12 +2,13 @@ GEM
   remote: https://rubygems.org/
   specs:
     nio4r (2.7.0)
-    puma (6.4.0)
+    puma (6.4.2)
       nio4r (~> 2.0)
     vernier (0.3.1)
 
 PLATFORMS
   arm64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   puma
